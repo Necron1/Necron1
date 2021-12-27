@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Necron1
+- 👋 Hi, I’m @Necron1 - Speedy
 - 👀 I’m interested in machine learning, data processing and mathematics
 - 🌱 I’m currently learning Python and arduino
 - 💞️ I’m looking to collaborate on anything
